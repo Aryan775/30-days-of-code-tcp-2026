@@ -1,5 +1,4 @@
 # 30-days-of-code-tcp-2026
-<h1>30 days of code tcp 2026</h2>
 <br>
 <h2>Name- Aryan Yadav</h2>
 <br>
