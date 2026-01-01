@@ -8,7 +8,12 @@
 ##Roll No.- 25118014
 <br>
 ###Day-1
-![Demo Screenshot](/Day1/S1.jpg)
-![Demo Screenshot](/Day1/S2.jpg)
-![Demo Screenshot](/Day1/S3.jpg)
-
+####index.html
+![index.html(1)](/Day1/S1.png)
+<br>
+![index.html(2)](/Day1/S2.png)
+<br>
+####about.html
+![about.html](/Day1/S3.png)
+<br>
+###Day 1 Completed
