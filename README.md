@@ -8,12 +8,12 @@
 <br>
 <h3>Day-1</h3>
 <h4>index.html</h4>
-![index.html(1)](/Day1/S1.png)
+![index(1)](/Day1/S1.png)
 <br>
-![index.html(2)](/Day1/S2.png)
+![index(2)](/Day1/S2.png)
 <br>
 <h4>about.html</h4>
-![about.html](/Day1/S3.png)
+![about](/Day1/S3.png)
 <br>
 <br>
-<h3>Day 1 Completed</h3>
+<h3>----------Day 1 Completed---------</h3>
