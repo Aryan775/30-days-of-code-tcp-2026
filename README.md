@@ -16,4 +16,12 @@
 <img src="/Day1/S3.png">
 <br>
 <br>
-<h3>----------Day 1 Completed---------</h3>
+<h3>----------Day 1 Completed--------</h3>
+<br>
+<br>
+<h3>Day-2</h3>
+<h4>event.html</h4>
+<img src="/Day2/S1.png">
+<br>
+<br>
+<h3>---------Day 2 Completed---------</h3>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day-2</title>
+</head>
+<body>
+    <section>
+        <h1>Events Schedule(Table)</h1>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>Time</th>
+                    <th>Activity</th>
+                    <th>Vanue</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>6 am - 7 am</td>
+                    <td>Blood Donation Camp</td>
+                    <td>Dispensary</td>
+                </tr>
+                <tr>
+                    <td>12:30 pm - 4 pm</td>
+                    <td>Yoga Session</td>
+                    <td>Yoga Hall</td>
+                </tr>
+                <tr>
+                    <td>5 pm - 6 pm</td>
+                    <td>Free Snacks Distribution</td>
+                    <td>Central Garden</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+    <hr>
+    <section>
+        <h1>Registration Form (Forms & Input)</h1>
+        <br>
+        <h2>Workshop Registration Form</h2>
+        <form action="/signup" method="post">
+            <fieldset>
+            <label for="Name">Name-</label>
+            <input type="text" name="Name" id="Name" required >
+            <br>
+            <label for="Email">Email-</label>
+            <input type="email" name="Email" id="Email" required>
+            <br>
+            <label for="Mobile_No.">Mobile No.-</label>
+            <input type="number" name="Mobile_No." id="Mobile_No" minlength="10" maxlength="10" required>
+            <br>
+            <div>
+            <label for="DOB">DOB-</label>
+            <input type="date" name="DOB" id="DOB">
+            </div>
+            <div>
+            <label for="Gender">Gender-
+                <input type="radio" name="Gender" id="M" >Male
+                <input type="radio" name="Gender" id="F" >Female
+                <input type="radio" name="Gender" id="O">Others
+            </label>
+            </div>
+            <div>
+            <label>Workshop:</label><br>
+            <input type="checkbox" id="Web_Dev" name="workshop" value="Web Development">
+            <label for="Web_Dev">Web Development</label>
+            <br>
+
+            <input type="checkbox" id="Python" name="workshop" value="Python">
+            <label for="Python">Python</label>
+            <br>
+            <input type="checkbox" id="Video_Edit" name="workshop" value="Video Editing">
+            <label for="Video_Edit">Video Editing</label>
+            <br>
+            <input type="checkbox" id="Finance" name="workshop" value="Finance">
+            <label for="Finance">Finance</label></div>
+
+            <br>
+            <label for="Comments">Comments-</label>
+            <br>
+            <textarea name="Comments" id="Comments" placeholder="Type comments here...."></textarea>
+            <br>
+            <button type="submit">Submit</button>
+            </fieldset>
+
+        </form>
+    </section>
+    
+</body>
+</html>
