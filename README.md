@@ -25,3 +25,16 @@
 <br>
 <br>
 <h3>---------Day 2 Completed---------</h3>
+<br>
+<br>
+<h3><u>Day-3</u></h3>
+<h4>index.html</h4>
+<img src="/Day3/S1.png">
+<br>
+<img src="/Day3/S2.png">
+<br>
+<h4>about.html</h4>
+<img src="/Day3/S3.png">
+<br>
+<br>
+<h3>----------Day 3 Completed--------</h3>
