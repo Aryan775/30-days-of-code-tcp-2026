@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Tic Tac Toe</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+  <div class="hed"><header>
+    <img src="/Day5/xo.png" alt="Game Icon" class="logo"/>
+    <h1>Tic Tac Toe</h1>
+      <svg width="20" height="20" viewBox="0 0 100 100"
+     xmlns="http://www.w3.org/2000/svg">
+  <line x1="15" y1="15" x2="85" y2="85"
+        stroke="black" stroke-width="10" stroke-linecap="round"/>
+  <line x1="85" y1="15" x2="15" y2="85"
+        stroke="black" stroke-width="10" stroke-linecap="round"/>
+</svg>
+<svg width="20" height="20" viewBox="0 0 100 100"
+     xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="50" r="35"
+          fill="none"
+          stroke="black"
+          stroke-width="10"/>
+</svg>
+  </header></div>
+
+  <main>
+    <div id="board" class="board">
+      <div class="cell" data-index="0"></div>
+      <div class="cell" data-index="1"></div>
+      <div class="cell" data-index="2"></div>
+      <div class="cell" data-index="3"></div>
+      <div class="cell" data-index="4"></div>
+      <div class="cell" data-index="5"></div>
+      <div class="cell" data-index="6"></div>
+      <div class="cell" data-index="7"></div>
+      <div class="cell" data-index="8"></div>
+    </div>
+
+    <div id="status" class="status"></div>
+
+    <button id="restart">Restart Game</button>
+  </main>
+
+  <footer class="foot">
+    <p>Contact: ttt@gmail.com</p>
+    <br>
+    <p class="copyright">© 2026 Tic-Tac-Toe | Aryan Yadav</p>
+  </footer>
+
+  <script src="index.js"></script>
+
+
+</body>
+
+</html>
