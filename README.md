@@ -64,5 +64,13 @@
 <br>
 <br>
 <h3>----------Day 6 Completed--------</h3>
+<br>
+<br>
+<h3><u>Day-7</u></h3>
+<h4>Time Complexity</h4>
+<img src="/Day7/S1.png">
+<br>
+<br>
+<h3>----------Day 7 Completed--------</h3>
 
 
