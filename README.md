@@ -64,5 +64,21 @@
 <br>
 <br>
 <h3>----------Day 6 Completed--------</h3>
+<br>
+<br>
+<h3><u>Day-7</u></h3>
+<h4>Find the Sum of Encrypted Integers...Solution</h4>
+<img src="/Day7/S1.png">
+<br>
+<br>
+<h3>----------Day 7 Completed--------</h3>
+<br>
+<br>
+<h3><u>Day-8</u></h3>
+<h4>Longest Consecutive Sequence</h4>
+<img src="/Day7/S1.png">
+<br>
+<br>
+<h3>----------Day 8 Completed--------</h3>
 
 
