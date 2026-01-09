@@ -82,9 +82,6 @@
 <br>
 <br>
 <h3>----------Day 8 Completed--------</h3>
-=======
-<<<<<<< HEAD
->>>>>>> be0e42baadfecfe25a2e69363f08df4e59ec3156
 <br>
 <br>
 <h3><u>Day-9</u></h3>
@@ -93,8 +90,5 @@
 <br>
 <br>
 <h3>----------Day 9 Completed--------</h3>
-=======
 
-
->>>>>>> cf6ac22ac8aa822f58e4230d4b5e0e25abdcb4ef
 
