@@ -67,25 +67,23 @@
 <br>
 <br>
 <h3><u>Day-7</u></h3>
-<<<<<<< HEAD
 <h4>Find the Sum of Encrypted Integers...Solution</h4>
 =======
 <h4>Time Complexity</h4>
->>>>>>> be0e42baadfecfe25a2e69363f08df4e59ec3156
 <img src="/Day7/S1.png">
 <br>
 <br>
 <h3>----------Day 7 Completed--------</h3>
-<<<<<<< HEAD
 <br>
 <br>
 <h3><u>Day-8</u></h3>
 <h4>Longest Consecutive Sequence</h4>
-<img src="/Day7/S1.png">
+<img src="/Day8/S1.png">
 <br>
 <br>
 <h3>----------Day 8 Completed--------</h3>
 =======
+<<<<<<< HEAD
 >>>>>>> be0e42baadfecfe25a2e69363f08df4e59ec3156
 <br>
 <br>
@@ -95,4 +93,8 @@
 <br>
 <br>
 <h3>----------Day 9 Completed--------</h3>
+=======
+
+
+>>>>>>> cf6ac22ac8aa822f58e4230d4b5e0e25abdcb4ef
 
