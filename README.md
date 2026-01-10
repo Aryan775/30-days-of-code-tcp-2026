@@ -88,10 +88,10 @@
 <img src="/Day9/S1.png">
 <br>
 <br>
-<h3>----------Day 10 Completed--------</h3>
+<h3>----------Day 9 Completed--------</h3>
 <br>
 <br>
-<h3><u>Day-9</u></h3>
+<h3><u>Day-10</u></h3>
 <h4>Sorting 0s,1s and 2s</h4>
 <img src="/Day10/S1.png">
 <br>
