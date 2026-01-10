@@ -68,7 +68,6 @@
 <br>
 <h3><u>Day-7</u></h3>
 <h4>Find the Sum of Encrypted Integers...Solution</h4>
-=======
 <h4>Time Complexity</h4>
 <img src="/Day7/S1.png">
 <br>
@@ -89,6 +88,13 @@
 <img src="/Day9/S1.png">
 <br>
 <br>
-<h3>----------Day 9 Completed--------</h3>
-
+<h3>----------Day 10 Completed--------</h3>
+<br>
+<br>
+<h3><u>Day-9</u></h3>
+<h4>Sorting 0s,1s and 2s</h4>
+<img src="/Day10/S1.png">
+<br>
+<br>
+<h3>----------Day 10 Completed--------</h3>
 
