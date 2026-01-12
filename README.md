@@ -105,4 +105,12 @@
 <br>
 <br>
 <h3>----------Day 11 Completed--------</h3>
+<br>
+<br>
+<h3><u>Day-12</u></h3>
+<h4>find first and last position of element in sorted array</h4>
+<img src="/Day12/S1.png">
+<br>
+<br>
+<h3>----------Day 12 Completed--------</h3>
 
