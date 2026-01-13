@@ -113,4 +113,12 @@
 <br>
 <br>
 <h3>----------Day 12 Completed--------</h3>
+<br>
+<br>
+<h3><u>Day-13</u></h3>
+<h4>Binary search(adv)</h4>
+<img src="/Day13/S1.png">
+<br>
+<br>
+<h3>----------Day 13 Completed--------</h3>
 
