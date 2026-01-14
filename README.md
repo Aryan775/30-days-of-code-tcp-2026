@@ -121,4 +121,12 @@
 <br>
 <br>
 <h3>----------Day 13 Completed--------</h3>
+<br>
+<br>
+<h3><u>Day-14</u></h3>
+<h4>Bit Manipulation</h4>
+<img src="/Day14/S1.png">
+<br>
+<br>
+<h3>----------Day 14 Completed--------</h3>
 
