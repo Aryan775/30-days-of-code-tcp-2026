@@ -129,4 +129,12 @@
 <br>
 <br>
 <h3>----------Day 14 Completed--------</h3>
+<br>
+<br>
+<h3><u>Day-15</u></h3>
+<h4>Number Theory</h4>
+<img src="/Day15/S1.png">
+<br>
+<br>
+<h3>----------Day 15 Completed--------</h3>
 
