@@ -137,4 +137,12 @@
 <br>
 <br>
 <h3>----------Day 15 Completed--------</h3>
+<br>
+<br>
+<h3><u>Day-16</u></h3>
+<h4>Greedy Algorithms(Candy)</h4>
+<img src="/Day16/S1.png">
+<br>
+<br>
+<h3>----------Day 16 Completed--------</h3>
 
