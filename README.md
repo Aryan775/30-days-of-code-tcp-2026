@@ -153,4 +153,12 @@
 <br>
 <br>
 <h3>----------Day 17 Completed--------</h3>
+<br>
+<br>
+<h3><u>Day-18</u></h3>
+<h4>Back Tracking</h4>
+<img src="/Day18/S1.png">
+<br>
+<br>
+<h3>----------Day 18 Completed--------</h3>
 
