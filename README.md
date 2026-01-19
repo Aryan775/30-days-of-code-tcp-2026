@@ -161,4 +161,11 @@
 <br>
 <br>
 <h3>----------Day 18 Completed--------</h3>
-
+<br>
+<br>
+<h3><u>Day-19</u></h3>
+<h4>Linked List</h4>
+<img src="/Day19/S1.png">
+<br>
+<br>
+<h3>----------Day 19 Completed--------</h3>
