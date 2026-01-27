@@ -225,3 +225,11 @@
 <br>
 <br>
 <h3>----------Day 26 Completed--------</h3>
+<br>
+<br>
+<h3><u>Day-27</u></h3>
+<h4>Sliding</h4>
+<img src="/Day27/S1.png">
+<br>
+<br>
+<h3>----------Day 27 Completed--------</h3>
