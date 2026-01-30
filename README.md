@@ -249,3 +249,11 @@
 <br>
 <br>
 <h3>----------Day 29 Completed--------</h3>
+<br>
+<br>
+<h3><u>Day-30</u></h3>
+<h4>Divide and Conquer -1</h4>
+<img src="/Day30/S1.png">
+<br>
+<br>
+<h3>----------Day 30 Completed--------</h3>
